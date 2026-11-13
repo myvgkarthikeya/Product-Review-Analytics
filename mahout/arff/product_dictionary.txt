@@ -1,0 +1,22 @@
+Label bindings for Relation product_reviews
+rating_4_pct	5
+rating_3_pct	4
+rating_5_pct	6
+total_reviews	1
+average_rating	0
+rating_1_pct	2
+rating_2_pct	3
+
+Values for nominal attributes
+0
+Label bindings for Relation product_reviews
+rating_4_pct	5
+rating_3_pct	4
+rating_5_pct	6
+total_reviews	1
+average_rating	0
+rating_1_pct	2
+rating_2_pct	3
+
+Values for nominal attributes
+0

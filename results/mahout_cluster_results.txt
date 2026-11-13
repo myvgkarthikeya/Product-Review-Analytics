@@ -1,0 +1,29 @@
+MAHOUT K-MEANS CLUSTERING RESULTS
+================================
+
+Dataset: Amazon Reviews 2023 - Books
+Total Unique Products: 1,244,476
+Algorithm: K-Means Clustering
+Number of Clusters (K): 3
+Maximum Iterations: 20
+Convergence Threshold: 0.001
+
+CLUSTER DISTRIBUTION
+--------------------
+
+Cluster VL-741794:
+Products: 200,835
+Percentage: 16.14%
+Interpretation: Lower-rated products with a higher proportion of 1-star, 2-star and 3-star ratings.
+
+Cluster VL-859165:
+Products: 226,932
+Percentage: 18.24%
+Interpretation: Products with a strong 4-star rating tendency.
+
+Cluster VL-639676:
+Products: 816,709
+Percentage: 65.63%
+Interpretation: Highly rated products with a dominant 5-star rating tendency.
+
+TOTAL PRODUCTS ASSIGNED: 1,244,476

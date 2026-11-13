@@ -1,0 +1,31 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Raw data and large generated files
+dataset/*
+!dataset/README.md
+*.parquet
+*.jsonl
+*.npz
+mahout/input/*.csv
+mahout/arff/*.arff
+mahout/arff/*.csv
+mahout/cluster_assignments_*.txt
+
+# Local runtime data
+*.log
+tmp/
+temp/
+hadoop-data/
+hive-local/
+metastore_db/
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
